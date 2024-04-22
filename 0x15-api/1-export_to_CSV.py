@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 '''Script to export employee data in the CSV format'''
-import sys
-import requests
 import csv
+import requests
+import sys
 
 if __name__ == "__main__":
     user_id = sys.argv[1]
