@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Return information about employee TODO list progress
+'''Script to return information about employee TODO list progress'''
 import requests
 import sys
 
